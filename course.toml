@@ -1,23 +1,24 @@
-# This is a TOML document
+title = "Introduction to Go"
 
-title = "TOML Example"
+[author]
+name = "Adnaan Badr"
+email = badr.adnaan@gmail.com
+github = adnaan
 
-[owner]
-name = "Tom Preston-Werner"
-dob = 1979-05-27T07:32:00-08:00
+[[modules]]
+name = "Data types"
 
-[database]
-enabled = true
-ports = [ 8000, 8001, 8002 ]
-data = [ ["delta", "phi"], [3.14] ]
-temp_targets = { cpu = 79.5, case = 72.0 }
+[[modules.lessons]]
+name = "Hello world"
 
-[servers]
+[[modules.lessons]]
+name = "Variables & Constants"
 
-[servers.alpha]
-ip = "10.0.0.1"
-role = "frontend"
+[[modules]]
+name = "Functions"
 
-[servers.beta]
-ip = "10.0.0.2"
-role = "backend"
+[[modules.lessons]]
+name = "Simple function"
+
+[[modules.lessons]]
+name = "Multipe return values"
