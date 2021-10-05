@@ -7,11 +7,10 @@ github = "adnaan"
 
 [[modules]]
 name = "Data types"
-index = ""
 
 [[modules.lessons]]
 name = "Hello world"
-index = ""
+index = "data_types/hello_world/index.md"
 
 [[modules.lessons]]
 name = "Variables & Constants"
