@@ -3,7 +3,8 @@
 
 This program prints a string.
 
-```
+```go
+
 package main
 
 import (
