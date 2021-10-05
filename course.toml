@@ -7,18 +7,24 @@ github = "adnaan"
 
 [[modules]]
 name = "Data types"
+index = ""
 
 [[modules.lessons]]
 name = "Hello world"
+index = ""
 
 [[modules.lessons]]
 name = "Variables & Constants"
+index = ""
 
 [[modules]]
 name = "Functions"
+index = ""
 
 [[modules.lessons]]
 name = "Simple function"
+index = ""
 
 [[modules.lessons]]
 name = "Multipe return values"
+index = ""
