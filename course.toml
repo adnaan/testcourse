@@ -2,8 +2,8 @@ title = "Introduction to Go"
 
 [author]
 name = "Adnaan Badr"
-email = badr.adnaan@gmail.com
-github = adnaan
+email = "badr.adnaan@gmail.com"
+github = "adnaan"
 
 [[modules]]
 name = "Data types"
