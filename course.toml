@@ -11,6 +11,7 @@ name = "Data types"
 [[modules.lessons]]
 name = "Hello world"
 index = "data_types/hello_world/index.md"
+quiz = "data_types/hello_world/quiz.toml"
 
 [[modules.lessons]]
 name = "Variables & Constants"

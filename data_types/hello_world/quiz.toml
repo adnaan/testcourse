@@ -1,0 +1,25 @@
+[[questions]]
+title = "What is main ?"
+answers = ["1","2"]
+[[questions.choices]]
+id = "1"
+text = "Main is the entry point  of a go program"
+[[questions.choices]]
+id = "2"
+text = "Main is a function"
+[[questions.choices]]
+id = "3"
+text = "Main is a variable"
+
+[[questions]]
+title = "What is fmt ?"
+answers = ["1"]
+[[questions.choices]]
+id = "1"
+text = "Main is the entry point  of a go program"
+[[questions.choices]]
+id = "2"
+text = "Main is a function"
+[[questions.choices]]
+id = "3"
+text = "Main is a variable"
