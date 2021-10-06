@@ -16,10 +16,10 @@ title = "What is fmt ?"
 answers = ["1"]
 [[questions.choices]]
 id = "1"
-text = "Main is the entry point  of a go program"
+text = "fmt is a package"
 [[questions.choices]]
 id = "2"
-text = "Main is a function"
+text = "fmt is a function"
 [[questions.choices]]
 id = "3"
-text = "Main is a variable"
+text = "fmt is a variable"
